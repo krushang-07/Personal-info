@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Krushang savaliya and I'm a from Surat , Gujrat.Currently I am studying in Bachelor of Engineering in LDRP-ITR ,gandhinagar.</p>
+<p align="left">My name is Krushang savaliya and I'm a from Surat ,Gujrat.Currently I am studying in Bachelor of Engineering in LDRP-ITR ,gandhinagar.</p>
 
 ###
 
